@@ -1,2 +1,0 @@
-url streamlit:
-mu4snwuwqgvftnkxpwyvrj.streamlit.app
